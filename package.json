@@ -1,0 +1,10 @@
+{
+  "name": "forecast-oracle-aggregator",
+  "version": "0.1.0",
+  "description": "Smart contract suite for aggregating multi-source prediction market data",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
